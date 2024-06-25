@@ -10,7 +10,7 @@ namespace CartAPI.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            return Ok("Cart API1");
+            return Ok("Cart API2");
         }
     }
 }
